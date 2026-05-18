@@ -45,3 +45,8 @@ fun Main() {
         )
     }
 }
+
+/**
+ * Guiate del Examen de repositorio que hicistes ayer vitaly
+ * link: https://github.com/Mr-Code-star/upc-pre-202510-1acc0238-ea-u20231c426.git
+ */
